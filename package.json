@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler pages deploy public --project-name international-redirection-pages"
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
