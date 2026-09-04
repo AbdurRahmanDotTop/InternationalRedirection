@@ -1,7 +1,0 @@
-name = "international-redirection"
-main = "src/index.js"
-compatibility_date = "2024-03-20"
-
-routes = [
-  { pattern = "international.techilyfly.com", custom_domain = true }
-]
